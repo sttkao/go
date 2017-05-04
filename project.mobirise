@@ -42,7 +42,7 @@
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
                 "contentAlign": "right",
-                "overlay": false,
+                "overlay": true,
                 "showTitle": true,
                 "title": "KUNJUNGI KAMPUS",
                 "showText": true,
@@ -54,17 +54,20 @@
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
                 "contentAlign": "left",
+                "overlay": true,
                 "showTitle": true,
                 "title": "Buku-buku Baru",
                 "showText": true,
                 "text": "Tersedia buku-buku baru <i>(new arrivals)</i>&nbsp;di Perpustkaan STTKAO. Bagi Mahasiswa yang membutuhkan informasi, silakan menghubungi petugas Perpustkaan.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">SUMBANGAN BUKU</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">&nbsp;BUKU BARU</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">PERPUSTAKAAN</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mbr-2000x1336.jpg",
                 "contentAlign": "center",
+                "overlay": true,
+                "overlayOpacity": "0.5",
                 "showTitle": true,
                 "title": "Registrasi Bible Camp",
                 "showText": true,
@@ -73,9 +76,10 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">REGISTRASI</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">INFO SELENGKAPNYA</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/mbr-2000x1289.jpg",
                 "contentAlign": "center",
+                "overlay": true,
                 "showTitle": true,
                 "title": "Program M.A.",
                 "showText": true,
