@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "STTKAO",
+    "name": "STTKAO 2.0",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -14,7 +14,8 @@
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
