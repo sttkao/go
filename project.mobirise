@@ -13,7 +13,8 @@
     "favicon": "@PROJECT_PATH@/assets/images/logostt-127x128-128x129.png",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
