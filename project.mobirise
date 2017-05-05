@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "STTKAO 2.0",
-    "currentPage": "index.html",
+    "currentPage": "registrasi.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 44,
+    "uniqCompNum": 50,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logostt-127x128-128x129.png",
     "noImageResize": "",
@@ -590,7 +590,9 @@
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".navbar, .dropdown-menu": {
               "background": "#333333"
@@ -607,9 +609,13 @@
           "_params": {
             "bgColor": "#333333",
             "fontSize": 1,
-            "fontName": {},
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
             "fontColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -628,7 +634,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STT-KAO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"underconstructionpage.html\">TENTANG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PENERIMAAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Host anywhere</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">KAMPUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">MAHASISWA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">DEPARTEMEN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"underconstructionpage.html\">DONASI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"whatsnew.html\">REGISTRASI</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"underconstructionpage.html\">TENTANG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PENERIMAAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Host anywhere</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">KAMPUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">MAHASISWA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">DEPARTEMEN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"underconstructionpage.html\">DONASI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"registrasi.html\">REGISTRASI</a></li>"
         }
       ]
     },
@@ -709,7 +715,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STT-KAO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"underconstructionpage.html\">TENTANG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PENERIMAAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Host anywhere</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">KAMPUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">MAHASISWA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">DEPARTEMEN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"underconstructionpage.html\">DONASI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"whatsnew.html\">REGISTRASI</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"underconstructionpage.html\">TENTANG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PENERIMAAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Host anywhere</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">KAMPUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">MAHASISWA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">DEPARTEMEN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"underconstructionpage.html\">DONASI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"registrasi.html\">REGISTRASI</a></li>"
         },
         {
           "_tags": [
@@ -820,7 +826,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STT-KAO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"underconstructionpage.html\">TENTANG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PENERIMAAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Host anywhere</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">KAMPUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">MAHASISWA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">DEPARTEMEN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"underconstructionpage.html\">DONASI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"whatsnew.html\">REGISTRASI</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"underconstructionpage.html\">TENTANG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PENERIMAAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Host anywhere</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">KAMPUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">MAHASISWA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">DEPARTEMEN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"underconstructionpage.html\">DONASI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"registrasi.html\">REGISTRASI</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -916,6 +922,162 @@
           "title": "PESAN BUKU TERBARU",
           "text": "Buku-buku berkualitas terbaru sudah dapat dipesan sekarang.",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">PESAN BUKU</a>"
+        }
+      ]
+    },
+    "registrasi.html": {
+      "settings": {
+        "title": "Registrasi Mahasiswa Baru",
+        "meta_descr": "Registrasi Mahasiswa Baru"
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-13",
+          "_params": {
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logostt-127x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STT-KAO</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"underconstructionpage.html\">TENTANG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PENERIMAAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Host anywhere</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">KAMPUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">MAHASISWA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">DEPARTEMEN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"underconstructionpage.html\">DONASI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"registrasi.html\">REGISTRASI</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-12",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 STT-KAO. <a class=\"mbr-footer__link text-gray\" href=\"#top\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"#bottom\">Privacy Policy</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "FORMULIR PENDAFTARAN",
+          "form": {
+            "action": "sttkao@yahoo.com",
+            "alerts": {
+              "success": "Terima kasih. Kami akan segera menghubungi Anda."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nama*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefon"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Pesan"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Jl. Jati Barang RW 001/ RT 001. Kel. Jati Barang, Kec. Mijen, Bukit Semarang Baru (BSB), Semarang.\nSemarang, Jawa Tengah, Indonesia",
+              "placeId": "ChIJ19Mb_wqKcC4RB_reJN8aJqE",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<p><b>ALAMAT</b><br>Jl. Jati Barang RT001/RW001<br>Mijen, Semarang, 50219<br><br><b>HUBUNGI KAMI</b><br>\nEmail: info@sttkao.ac.id<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002</p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>TAUTAN LAIN</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.gbtkaosmg.com/\" target=\"_blank\" class=\"text-gray\">GBT KAO Semarang</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://www.facebook.com/MusikGerejaSTTKAO/\" target=\"_blank\" class=\"text-gray\">FB: Musik Gereja</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"lp3m.html\" target=\"_blank\" class=\"text-gray\">LP3M</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
         }
       ]
     }

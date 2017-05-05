@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
 #msg-box4-b .mbr-header__text {
   color: #ffffff;
 }
@@ -38,6 +40,7 @@
 #dropdown-menu-2btn-s .dropdown-item {
   font-size: 1em;
   color: #ffffff;
+  font-family: 'Lato', sans-serif;
 }
 #dropdown-menu-2btn-s .navbar,
 #dropdown-menu-2btn-s .dropdown-menu {
@@ -99,4 +102,24 @@
 }
 #msg-box1-16 .mbr-article {
   color: #fff;
+}
+#dropdown-menu-2btn-13 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-13 .nav .link,
+#dropdown-menu-2btn-13 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-13 .navbar,
+#dropdown-menu-2btn-13 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-13 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-13 .dropdown-menu a:hover,
+#dropdown-menu-2btn-13 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-13 .navbar-toggler {
+  color: #ffffff;
 }
