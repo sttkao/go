@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STTKAO 2.0",
-    "currentPage": "registrasi.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -615,7 +615,7 @@
               "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
