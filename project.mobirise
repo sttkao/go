@@ -41,7 +41,7 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
                 "contentAlign": "right",
                 "overlay": true,
@@ -78,7 +78,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">REGISTRASI</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">INFO SELENGKAPNYA</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mbr-2000x1289.jpg",
                 "contentAlign": "center",
                 "overlay": true,
@@ -87,7 +87,7 @@
                 "showText": true,
                 "text": "Program Pasca Sarjana jurusan Konseling telah dibuka. Semester 2 Tahun 2017 telah dimulai perkuliahan.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">PENDAFTARAN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">JADWAL PERKULIAHAN</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">PENDAFTARAN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">JADWAL PERKULIAHAN</a>"
               }
             ],
             "fullScreen": true,
@@ -125,7 +125,7 @@
           },
           "title": "PENDAFTARAN ONLINE",
           "text": "Awali dengan pengajuan formulir Pendaftaran secara online. Selanjutnya, kami akan memproses bagi Anda.<br>Atau, periksa status pengajuan formulir Pendaftaran Anda.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"underconstructionpage.html\" data-toolbar=\"-mbrBtnMove\">REGISTRASI SEKARANG</a>   <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"whatsnew.html\" data-toolbar=\"-mbrBtnMove\">INFORMASI LENGKAP</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"underconstructionpage.html\" data-toolbar=\"-mbrBtnMove\">REGISTRASI SEKARANG</a>   <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"whatsnew.html\" data-toolbar=\"-mbrBtnMove\">INFORMASI LENGKAP</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -152,7 +152,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#f97352",
+            "bgColor": "#475577",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -193,7 +193,7 @@
           "headerAlign": "left",
           "title": "KELAS PROFESIONAL",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Kelas ini dirancang khusus bagi para profesional yang ingin mempertajam pengetahuan, memperluas wawasan, mengembangkan gagasan dan mengasah ketrampilan dalam pelayanan kerohanian. </p><p><b>Diadakan pada malam hari tanpa menggangu aktifitas pekerjaan Anda.<br></b><b>Kuliah padat yang dikemas dengan cara kreatif dan aplikatif</b><b>.<br>Suasana belajar di kelas yang nyaman dan menyenangkan.</b></p><p>Registrasi dapat dilakukan sekarang juga:&nbsp;<a href=\"index.html#form1-h\" class=\"text-white\" style=\"background-color: rgb(249, 115, 82);\">Klik di sini</a>.<br></p>",
+          "text": "<p>Kelas ini dirancang khusus bagi para profesional yang ingin mempertajam pengetahuan, memperluas wawasan, mengembangkan gagasan dan mengasah ketrampilan dalam pelayanan kerohanian. </p><p><b>Diadakan pada malam hari tanpa menggangu aktifitas pekerjaan Anda.<br></b><b>Kuliah padat yang dikemas dengan cara kreatif dan aplikatif</b><b>.<br>Suasana belajar di kelas yang nyaman dan menyenangkan.</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"whatsnew.html\" data-toolbar=\"-mbrBtnMove\">SELENGKAPNYA&nbsp;</a>"
         },
         {
@@ -204,7 +204,7 @@
               "authorBio": "Mahasiswa Program S-1 Reguler"
             },
             {
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</p>",
               "authorName": "SUFFIAN A.",
               "authorBio": "Mahasiswa Pasca-Sarjana Kelas Profesional"
             },
@@ -225,7 +225,7 @@
               "authorBio": "Mahasiswa Program S-1 Reguler"
             },
             {
-              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "text": "<p class=\"mbr-reviews__p\">“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</p>",
               "authorName": "SUFFIAN A.",
               "authorBio": "Mahasiswa Pasca-Sarjana Kelas Profesional"
             },
@@ -376,7 +376,7 @@
             "overlayColor": "#222",
             "showTitle": true
           },
-          "title": "BERLANGGANAN NEWSLETTER KAMI",
+          "title": "BERLANGGANAN NEWSLETTER",
           "form": {
             "action": "sbsuryanto@yahoo.com",
             "alerts": {
@@ -389,7 +389,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">BERLANGGANAN</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">BERLANGGANAN</a>"
         },
         {
           "_styles": {
@@ -479,7 +479,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">KONTAK KAMI</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">KONTAK KAMI</a>"
         },
         {
           "_tags": [
@@ -529,56 +529,6 @@
           "text2": "<p class=\"mbr-contacts__text\"><strong>TAUTAN LAIN</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.gbtkaosmg.com/\" target=\"_blank\" class=\"text-gray\">GBT KAO Semarang</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://www.facebook.com/MusikGerejaSTTKAO/\" target=\"_blank\" class=\"text-gray\">FB: Musik Gereja</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"lp3m.html\" target=\"_blank\" class=\"text-gray\">LP3M</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-l",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#3c3c3c",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "text1": "",
-          "text2": "<p>HUBUNGI EMAIL KAMI DI:</p><p>BAAK: <a href=\"mailto://baak@sttkao.ac.id\" target=\"_blank\" class=\"text-gray\">baak@sttkao.ac.id</a></p><p>HUMAS: <a href=\"mailto://info@sttkao.ac.id\" target=\"_blank\" class=\"text-gray\">info@sttkao.ac.id</a></p><p>PENDAFTARAN: <a href=\"mailto://registrasi@sttkao.ac.id\" target=\"_blank\" class=\"text-gray\">registrasi@sttkao.ac.id</a></p><p></p><ul class=\"mbr-contacts__list\"></ul><p></p>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "sbsuryanto@yahoo.com",
-            "alerts": {
-              "success": "Terima kasih. Kami akan segera menghubungi Anda. Tuhan memberkati."
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">KONTAK KAMI</a>"
-        },
-        {
           "_inherit": "dropdown-menu",
           "_tags": [
             "Theme"
@@ -615,7 +565,7 @@
               "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -634,7 +584,7 @@
             }
           },
           "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STT-KAO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"underconstructionpage.html\">TENTANG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PENERIMAAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Host anywhere</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">KAMPUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">MAHASISWA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">DEPARTEMEN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"underconstructionpage.html\">DONASI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"registrasi.html\">REGISTRASI</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"underconstructionpage.html\">TENTANG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PENERIMAAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Host anywhere</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">KAMPUS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">MAHASISWA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"whatsnew.html\">DEPARTEMEN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"underconstructionpage.html\">DONASI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"registrasi.html\">REGISTRASI</a></li>"
         }
       ]
     },
@@ -696,7 +646,7 @@
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -807,7 +757,7 @@
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -962,7 +912,7 @@
             "fontSize": 1,
             "fontName": {},
             "fontColor": "#ffffff",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
